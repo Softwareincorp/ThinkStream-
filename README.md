@@ -2,7 +2,8 @@
 
 ThinkStream is a tool for communicating with language models running via LM Studio or Ollama within your local network. It detects and displays the model's "reasoning" process, if provided.
 
-![ThinkStream Demo](https://github.com/user-attachments/assets/31d9c032-c5db-47f2-aab1-428cfb5a4dee)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81a4c70e-c7c3-4924-b4bf-a18b5b635186" />
+
 
 ## ✨ Features
 
@@ -19,6 +20,8 @@ ThinkStream is a tool for communicating with language models running via LM Stud
 
 ### 1. Load a Model
 Load your preferred model in LM Studio or Ollama.
+
+![ThinkStream Demo](https://github.com/user-attachments/assets/31d9c032-c5db-47f2-aab1-428cfb5a4dee)
 
 ### 2. Start a Local Server
 Start a server on port **5517** (or another port) and copy the address.
