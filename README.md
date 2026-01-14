@@ -18,14 +18,14 @@ A clean interface without unnecessary elements. Auto-scaling input fields, smoot
 How it works
 
 1. Load a model
-
 <img width="1335" height="136" alt="image" src="https://github.com/user-attachments/assets/31d9c032-c5db-47f2-aab1-428cfb5a4dee" />
+
 2. Start a local server on port 5517 (or another port) and copy the address
-
 <img width="1345" height="89" alt="image" src="https://github.com/user-attachments/assets/040aacb0-f05e-4072-993d-3a15bf295d9f" />
-3. Check your settings
 
+3. Check your settings
 <img width="468" height="421" alt="image" src="https://github.com/user-attachments/assets/e20a794d-b87f-457b-ad33-e1a38a61b2ea" />
+
 4. Open ThinkStream (index.html) in your browser
 
 5. Type your query as in a regular chat
